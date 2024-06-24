@@ -1,0 +1,14 @@
+.menuList{
+    background-color: #0000ffb7;
+    height: 170px;
+    width: 140px;
+    padding: 10px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap:10px
+}
+.CategoryName{
+    margin-left: 10px;
+    font-size: medium;
+}
